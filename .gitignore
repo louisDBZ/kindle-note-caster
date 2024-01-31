@@ -1,0 +1,5 @@
+*.csv
+*.docx
+venv
+.git
+.git attributes
